@@ -1,6 +1,13 @@
 # F1 Lap Time Predictor
 
-A machine learning project to predict Formula 1 lap times using sector times and tire data.
+An F1 Lap Time Predictor is a machine learning or statistical model that predicts the total time a Formula 1 car/driver will take to complete a full lap of a racing circuit (A machine learning project to predict Formula 1 lap times using sector times and tire data).
+
+# Purpose / Why It's useful ?
+F1 teams, engineers, and data scientists use lap time prediction for:
+- Race Strategy: Predict lap time with different tires, fuel loads or weather
+- Qualifying sim: Estimate weather the next lap will be faster/slower
+- Setup evaludation: See impact of car changes (e.g., downforce) on lap time.
+- Driver comparison: Predict time based on driving style or telemetry
 
 ## Overview
 
